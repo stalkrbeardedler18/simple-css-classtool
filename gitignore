@@ -6,3 +6,9 @@ node_modules/
 
 # NPM debug log file created during installation and debugging
 npm-debug.log
+
+# Yarn integrity file
+.yarn-integrity
+
+# Logs directory
+logs/
