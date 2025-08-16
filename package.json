@@ -1,0 +1,13 @@
+{
+  "name": "simple-css-classtool",
+  "version": "1.0.0",
+  "description": "A minimalist tool that simplifies CSS class management for web developers by auto-generating reusable class snippets.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "commander": "^9.0.0"
+  },
+  "license": "MIT"
+}
