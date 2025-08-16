@@ -12,3 +12,12 @@ npm-debug.log
 
 # Logs directory
 logs/
+
+# Environment variable files
+.env
+
+# npm package lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
