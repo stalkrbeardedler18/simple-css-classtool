@@ -4,5 +4,5 @@ node_modules/
 # macOS system files
 .DS_Store
 
-# NPM debug log
+# NPM debug log file created during installation and debugging
 npm-debug.log
